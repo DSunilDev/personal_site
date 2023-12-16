@@ -1,0 +1,28 @@
+{
+  "name": "pweb",
+  "version": "1.0.0",
+  "description": "personal",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DSunilDev/personal_site.git"
+  },
+  "keywords": [
+    "hh"
+  ],
+  "author": "Sunilkumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DSunilDev/personal_site/issues"
+  },
+  "homepage": "https://github.com/DSunilDev/personal_site#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.2",
+    "path": "^0.12.7"
+  }
+}
